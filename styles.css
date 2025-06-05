@@ -13,7 +13,7 @@
       color: #3b2a26;
     }
 
-    /* BACKGROUND IMAGE */
+
     .background {
       background-image: url('morpho_knight.png');
       background-repeat: no-repeat;
@@ -67,6 +67,7 @@
       background-color: #5c1221;
       color: #ffffff;
       border-radius: 5px;
+      box-shadow: 2px 2px;
     }
 
     .link-button button:focus {
@@ -98,6 +99,7 @@
       background-color: #5c1221;
       color: #ffffff;
       border-radius: 5px;
+      box-shadow: 2px 2px;
     }
 
     .page-link-button button:focus {
